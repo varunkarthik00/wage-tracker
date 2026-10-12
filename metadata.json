@@ -1,0 +1,6 @@
+{
+  "name": "Wage Tracker",
+  "description": "A simple, offline-first native Android app for tracking daily wage payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
